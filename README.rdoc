@@ -1,2 +1,2 @@
 == README
-Visit test version: https://simple-blog-andlev.c9users.io/
+Visit test version: https://simple-blog-andlev.c9users.io
